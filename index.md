@@ -1,5 +1,5 @@
 ##  Al Wootten's Home Page  
-![Image](http://www.cv.nrao.edu/~awootten/almwo.jpg width=100)
+![Image](http://www.cv.nrao.edu/~awootten/almwo.jpg)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
